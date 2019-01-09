@@ -126,7 +126,7 @@ crew install thefuck
 On other systems, install *The Fuck*  by using `pip`:
 
 ```bash
-pip install thefuck
+pip3 install thefuck
 ```
 
 [Alternatively, you may use an OS package manager (OS X, Ubuntu, Arch).](https://github.com/nvbn/thefuck/wiki/Installation)
